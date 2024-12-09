@@ -1,0 +1,7 @@
+#searchBtn {
+  width: 3rem;
+}
+
+#searchBtn:hover {
+  background: lightgreen;
+}

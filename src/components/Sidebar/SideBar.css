@@ -1,0 +1,24 @@
+.category-icon:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease;
+}
+
+.category-name:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease;
+}
+
+.category:hover {
+  background: red;
+  border-radius: 5rem;
+  padding-left: 0.5rem;
+  transform: scale(1.1);
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+
+.category.active {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  font-weight: bold;
+}
